@@ -1,0 +1,4 @@
+Output:
+The goal is above the class average.
+ New Predicted grade average: 44.5
+ Your average will increase due to course average. Course is recommended.
